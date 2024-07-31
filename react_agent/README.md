@@ -1,9 +1,9 @@
-#What is the ReACT Agent Model?
+# What is the ReACT Agent Model?
 
 Overview: https://klu.ai/glossary/react-agent-model
 
 
-#Implementation
+# Implementation
 
 `agent_langchain.py` contains the ReAct Agent Implementation using LangChain.
 
